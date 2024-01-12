@@ -1,0 +1,70 @@
+nav {
+    text-align: center;
+}
+.container {
+    position: relative;
+}
+
+.majhe {
+    color: rgba(240, 255, 255, 0.841);
+    font-size: 32px; 
+    position: absolute;
+    top: 25%;
+    left: 45%;
+    text-shadow: 2.5px 2.5px black;
+}
+.majhe1 {
+    color: rgba(240, 255, 255, 0.898);
+    font-size: 72px; 
+    font-weight: 900; 
+    line-height: 95px;
+    position: absolute;
+    top: 30%;
+    left: 38%;
+    text-shadow: 2.5px 2.5px black;
+}
+
+.offer {
+    color: #F00;
+    font-family: Inter;
+    font-size: 88px;
+}
+.deal {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+}
+.hell {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.image {
+    position: absolute;
+    left: 61%;
+    top: 12%;
+}
+.party {
+    /* color: #FFF; */
+    font-size: 64px;
+    left: 50%;
+    letter-spacing: 7.04px; }
+
+.aline {
+    display: flex;
+}
+.beneath {
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding: 5%;
+}
+
+.line {
+    padding: 7%;
+}
